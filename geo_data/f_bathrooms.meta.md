@@ -1,0 +1,1 @@
+bathroom_overall_quality: Higher is worse quality, 2 is maximum
